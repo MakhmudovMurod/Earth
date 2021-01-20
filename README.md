@@ -23,7 +23,7 @@
 
 - 🔭 <b>Currently working on:</b> Laravel
 - 🌱 <b>Getting better at:</b> MERN stack
-- 🔬 <b>Exploring:</b> Scalalable web architectures and System Design
+- 🔬 <b>Exploring:</b> Scalable web architectures and System Design
 
 ### My Stacks
 
