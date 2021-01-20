@@ -1,13 +1,11 @@
 # Hi, my name is Murodjon 
 
-
-[![YouTube](https://img.shields.io/badge/%20-Vlog-black?color=545B60&labelColor=c4302b&logo=youtube&logoColor=FFFFFF)](https://www.youtube.com/channel/UCTez9BrKDCRXT29DB7n9mzQ?view_as=subscriber)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=545B60&labelColor=0e76a8&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/samadovabdullah/)
-[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=545B60&labelColor=00acee&logo=twitter&logoColor=FFFFFF&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Diam_abdulloh&suffix=%20Followers)](https://twitter.com/iam_abdulloh)
-[![YouTube](https://img.shields.io/badge/%20-CodeSandBox-black?color=545B60&labelColor=ffffff&logo=codesandbox&logoColor=545B60)](https://codesandbox.io/u/abon)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=545B60&labelColor=0e76a8&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/murod-makhmudov-871955186/)
+[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=545B60&labelColor=00acee&logo=twitter&logoColor=FFFFFF&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Diam_abdulloh&suffix=%20Followers)](https://twitter.com/Murod24710358)
 
 
-**✨ I am a software engineer based in Tashkent, Uzbekistan specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.**
+
+**✨ I am a Computer Science student and Freelancer.Fullstack web developer**
 
 
 **Languages and Tools:**  
@@ -17,13 +15,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+
 
 
 ### Things to note
 
-- 🔭 <b>Currently working on:</b> React.js
-- 🌱 <b>Getting better at:</b> Javascript, Python
-- 🔬 <b>Exploring:</b> Gatsby.js, Next.js
+- 🔭 <b>Currently working on:</b> Laravel
+- 🌱 <b>Getting better at:</b> MERN stack
+- 🔬 <b>Exploring:</b> Scalalable web architectures and System Design
 
 ### My Stacks
 
@@ -33,20 +33,13 @@
   "frameworks/libraries": {
     "backend": ["Node.js"],
     "frontend": ["React.js", "Express.js","Electron.js"],
-    "database": ["MongoDB", "PostgreSQL", "MYSQL"],
-    "tools": ["Figma","OBS Studio", "Resolve"],
+    "database": ["MongoDB", "PostgreSQL", "MYSQL","SQLite"],
+    "tools": ["Figma","OBS Studio", "Resolve","
     "cloud": ["Netlify","Heorku","Firebase","Vercel"]
 }
 ```
 
-## Connect with Me 🤝🏻
 
-<p align="center">
-<a href="https://abdulloh.codes"><img alt="Website" src="https://img.shields.io/badge/-abdulloh.codes-red?style=flat&color=2C2E56&labelColor=2C2E56&logo=google-chrome&logoColor=6ED57E"></a>
-<a href="https://www.linkedin.com/in/samadovabdullah/"><img alt="LinkedIn" src="https://img.shields.io/badge/Abdullah%20Samadov-blue?style=flat&color=2C2E56&labelColor=2C2E56&logo=linkedin&logoColor=6ED57E"></a>
-<a href="https://twitter.com/iam_abdulloh"><img alt="Twitter" src="https://img.shields.io/badge/Abdullah%20Samadov-blue?style=flat&color=2C2E56&labelColor=2C2E56&logo=twitter&logoColor=6ED57E"></a>
-<a href="https://devslab.tech"><img alt="Blog" src="https://img.shields.io/badge/Devs%20Lab-blue?style=flat&color=2C2E56&labelColor=2C2E56&logo=blogger&logoColor=6ED57E"></a>
-</p>
 
 #### Happy coding!
 
