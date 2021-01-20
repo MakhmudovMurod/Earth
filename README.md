@@ -34,7 +34,7 @@
     "backend": ["Node.js"],
     "frontend": ["React.js", "Express.js","Electron.js"],
     "database": ["MongoDB", "PostgreSQL", "MYSQL","SQLite"],
-    "tools": ["Figma","OBS Studio", "Resolve"]
+    "tools": ["Figma","OBS Studio", "Resolve"],
     "cloud": ["Netlify","Heorku","Firebase","Vercel"]
 }
 ```
