@@ -27,7 +27,7 @@
 - 🔭 <b>Currently working on:</b> Laravel
 - 🌱 <b>Getting better at:</b> MERN stack
 - 🔬 <b>Exploring:</b> 
- <ul>
+- <ul>
      <li>Scalable web architectures and System Design</li>
      <li>Artificial Intelligence</li>
      <li>Blockchain</li>
