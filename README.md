@@ -27,14 +27,14 @@
 - 🔭 <b>Currently working on:</b> Laravel
 - 🌱 <b>Getting better at:</b> MERN stack
 - 🔬 <b>Exploring:</b> 
-- <ul>
-  - <li>Scalable web architectures and System Design</li>
-  - <li>Artificial Intelligence</li>
-  - <li>Blockchain</li>
-  - <li>IoT(Internet of Things)</li>
-  - <li>Hardware Engineering</li>
-- </ul>
-- 
+<ul>
+ <li>Scalable web architectures and System Design</li>
+ <li>Artificial Intelligence</li>
+ <li>Blockchain</li>
+ <li>IoT(Internet of Things)</li>
+ <li>Hardware Engineering</li>
+</ul>
+ 
 
 ### My Stacks
 
