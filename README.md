@@ -13,9 +13,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+
+
 
 
 
@@ -23,7 +26,15 @@
 
 - 🔭 <b>Currently working on:</b> Laravel
 - 🌱 <b>Getting better at:</b> MERN stack
-- 🔬 <b>Exploring:</b> Scalable web architectures and System Design
+- 🔬 <b>Exploring:</b> 
+- <ul>
+  - <li>Scalable web architectures and System Design</li>
+  - <li>Artificial Intelligence</li>
+  - <li>Blockchain</li>
+  - <li>IoT(Internet of Things)</li>
+  - <li>Hardware Engineering</li>
+- </ul>
+- 
 
 ### My Stacks
 
