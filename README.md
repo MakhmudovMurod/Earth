@@ -29,13 +29,13 @@
 
 ```json
 {
-  "languages": ["PHP", "Javascript"],
+  "languages": ["PHP", "Node.js"],
   "frameworks/libraries": {
-    "backend": ["Node.js"],
-    "frontend": ["React.js", "Express.js","Electron.js"],
+    "backend": ["Express.js","Laravel"],
+    "frontend": ["React.js","Vue.js", ,"Electron.js"],
     "database": ["MongoDB", "PostgreSQL", "MYSQL","SQLite"],
-    "tools": ["Figma","OBS Studio", "Resolve"],
-    "cloud": ["Netlify","Heorku","Firebase","Vercel"]
+    "tools": ["VScode","Postman", "Insomnia Core", "Swagger"],
+    "cloud": ["AWS","Heorku","Firebase","Google Cloud Platform","Digital Ocean"]
 }
 ```
 
