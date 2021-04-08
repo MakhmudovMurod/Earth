@@ -1,7 +1,7 @@
 # Hi, my name is Murodjon 
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=545B60&labelColor=0e76a8&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/murod-makhmudov-871955186/)
-[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=545B60&labelColor=00acee&logo=twitter&logoColor=FFFFFF&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Diam_abdulloh&suffix=%20Followers)](https://twitter.com/Murod24710358)
+
 
 
 
